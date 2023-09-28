@@ -1,4 +1,4 @@
-### Using Multiple Databases in Laravel 8
+## Using Multiple Databases in Laravel 8
 
 Laravel 8 has many options to use different types of databases. For example, we can use SQLite, MYSQL, PostgreSQL, SQL Server, Laravel-OCI8 for Oracle Database. Sometimes, to Speed Up Our Application or Simplify Our Large-Database Application we needs to use Multiple Database for our Single Laravel Application.
 
@@ -35,3 +35,8 @@ Inside the routes directory open api.php file ,
 ## Note
 
 You can now use Multiple Databases in your any Laravel Applications. You can also now speed up and simplify your Laravel Application using Laravel 8 Multiple Database and Resource Routes with Controllers.
+
+
+## Tags
+
+php , laravel , mysql , database
